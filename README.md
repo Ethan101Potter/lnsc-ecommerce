@@ -70,15 +70,6 @@ Please refer to the [LICENSE](./LICENSE) file for full legal terms and usage con
 > The LNSC name and related references are used **strictly for internal development and demonstration purposes**.
 
 ---
-
-## 🤝 Contact
-
-If you're from LNSC or a partner interested in this project:
-
-* 📧 Email: [siratim.hq@gmail.com](mailto:siratim.hq@gmail.com)
-* 📞 Phone: +63-975-950-1214
-* 🗺️ Location: Zamboanga City, Philippines
-
 ---
 > 🚀 This project is maintained by [Siratim Labs](https://github.com/siratimlabs), a collaborative developer team focused on building innovative technology proposals and systems for modern businesses.
 
