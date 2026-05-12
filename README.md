@@ -71,6 +71,6 @@ Please refer to the [LICENSE](./LICENSE) file for full legal terms and usage con
 
 ---
 ---
-> 🚀 This project is maintained by [Siratim Labs](https://github.com/siratimlabs), a collaborative developer team focused on building innovative technology proposals and systems for modern businesses.
+> 🚀 This project is maintained by [Siratim Labs], a collaborative developer team focused on building innovative technology proposals and systems for modern businesses.
 
 *Copyright © 2025 Siratim Labs*
