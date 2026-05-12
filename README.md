@@ -47,7 +47,7 @@ LNSC Laptops aims to redefine the online shopping experience for high-performanc
 
 ## 🛠️ Contributing
 
-We welcome collaborators! Please follow our [📘 Contribution Guidelines & Wiki](https://github.com/AmrVisTech/lnsc-ecommerce/wiki/Getting-Started-&-Contributing) for setup instructions, code standards, and how to participate in development.
+We welcome collaborators! Please follow our [📘 Contribution Guidelines & Wiki] for setup instructions, code standards, and how to participate in development.
 
 ---
 
@@ -61,7 +61,7 @@ We welcome collaborators! Please follow our [📘 Contribution Guidelines & Wiki
 This project is licensed under the  
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 Please refer to the [LICENSE](./LICENSE) file for full legal terms and usage conditions.
 
